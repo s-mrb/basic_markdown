@@ -12,11 +12,11 @@ __Bold__
 
 _Italic_
 
-***Bolad and Italic***
+***Bold and Italic***
 
 ~~Strikethrough~~
 
-**Bolad and Nested _Italic_**
+**Bold and Nested _Italic_**
 
 
 > This is quote, and if you do not put newline after it
@@ -53,7 +53,7 @@ I think you should use an
 - [ ] \(Optional) Open a followup issue
 
 <!-- Links -->
-Link to Webpage, [Mehdi](https://github.com/s-mrb)
+Link to Webpage, [s-mrb](https://github.com/s-mrb)
 
 <!-- Escape Sequence, Ignore formatting -->
 Let's rename \*our-new-project\* to \*our-old-project\*.
